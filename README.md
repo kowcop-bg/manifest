@@ -11,4 +11,17 @@ Then to sync up:
 
 And to start building:
     
+    source ./build/envsetup.sh
+    
+Then:
+    
+    lunch
+
+Pick your device and then:
+
+    make bacon
+    
+
+
+Enjoy. :)
     
