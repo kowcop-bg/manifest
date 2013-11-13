@@ -436,4 +436,11 @@
     <project path="vendor/lge" name="android_vendor_lge" remote="BeerGang" revision="kitkat" />
     <project path="vendor/beergang" name="android_vendor_beergang" remote="BeerGang" revision="kitkat" />
     
+    !--Tmobile Themes-->
+    <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="CyanogenMod" revision="cm-11.0" />
+    <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="CyanogenMod" revision="cm-11.0" />
+    <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="CyanogenMod" revision="cm-11.0" />
+    <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="CyanogenMod" revision="cm-11.0" />
+
+    
 </manifest>
