@@ -4,11 +4,11 @@
     <remote  name="aosp"
     fetch="https://android-review.googlesource.com/" />
     <remote name="kow"
-    fetch="git://github.com/kowcop-bg/" />
+    fetch="https://github.com/kowcop-bg/" />
     <remote name="BeerGang"
-    fetch="git://github.com/BeerGang/" />
+    fetch="https://github.com/BeerGang/" />
     <remote name="CyanogenMod"
-    fetch="git://github.com/CyanogenMod/" />
+    fetch="https://github.com/CyanogenMod/" />
     <default revision="refs/tags/android-4.4_r1.2"
     remote="aosp"
     sync-j="4" />
